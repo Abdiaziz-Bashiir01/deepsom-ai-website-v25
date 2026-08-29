@@ -1,0 +1,1 @@
+export const site={name:"Deepsom AI",fullName:"Deepsom Institute of AI and Technology",tagline:"Empowering Minds. Driving the Future.",url:"https://deepsom.ai",email:"info@deepsom.ai",address:"Jigjiga Yar, Hargeisa, Somaliland"};
